@@ -1,0 +1,1 @@
+password strength analyzer based on randomness of the combination of keys and the type of keys used in the password. 

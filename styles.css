@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    background: #121212;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.container {
+    width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+}
+
+#strength_bar {
+    height: 20px;
+    width: 0%;
+    background: red;
+    margin-top: 10px;
+    transition: 0.3s;
+}
